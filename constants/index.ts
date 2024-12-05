@@ -82,6 +82,6 @@ export const sortTypes = [
 ];
 
 export const avatarPlaceholderUrl =
-  "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_960_720.png";
+  "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png";
 
 export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
