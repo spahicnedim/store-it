@@ -10,11 +10,15 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "w7.pngwing.com ",
+        hostname: "w7.pngwing.com",
       },
       {
         protocol: "https",
         hostname: "cloud.appwrite.io",
+      },
+      {
+        protocol: "https",
+        hostname: "cdn.pixabay.com",
       },
     ],
   },
