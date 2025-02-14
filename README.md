@@ -43,8 +43,8 @@ npm (Node Package Manager)
 Cloning the Repository
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
-cd storage_management_solution
+git clone https://github.com/spahicnedim/store-it.git
+cd store-it
 Installation
 ```
 
