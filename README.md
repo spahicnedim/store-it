@@ -51,8 +51,8 @@ Installation
 Install the project dependencies using npm:
 ```bash
 npm install
-Set Up Environment Variables
 ```
+Set Up Environment Variables
 Create a new file named .env.local in the root of your project and add the following content:
 ```bash
 NEXT_PUBLIC_APPWRITE_ENDPOINT="https://cloud.appwrite.io/v1"
